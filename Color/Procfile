@@ -1,0 +1,1 @@
+web: gunicorn colorapp.wsgi --log-file -
